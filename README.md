@@ -1,5 +1,9 @@
 # SwiftUI List inifinite scroll
 
+## Demo
+
+![Using app - demo](demo.gif)
+
 ## Just a test project
 
 Using the onAppear Event to load more items in the List
